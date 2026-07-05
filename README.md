@@ -7,7 +7,7 @@ The app is built with C++ and Qt 6. It shows loaded and available models,
 can trigger model load/unload actions, and stores connection settings with
 `QSettings`.
 
-<img width="199" height="266" alt="image" src="https://github.com/user-attachments/assets/9e8aa623-c1d8-473a-923f-2a915152d5f6" />
+<img width="199" height="266" alt="image" src="https://github.com/user-attachments/assets/0e1bf057-8ca5-45e7-b0ba-9fbcd14b4c7d" />
 
 ## Features
 
