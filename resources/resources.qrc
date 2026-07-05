@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="llama_icon.svg">../assets/llama_icon.svg</file>
+        <file alias="llama_icon_dark.svg">../assets/llama_icon_dark.svg</file>
+    </qresource>
+</RCC>

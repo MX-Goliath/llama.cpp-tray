@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=llama.cpp Tray C++
+Comment=Tray app for loaded llama.cpp models
+Exec=llama_cpp_tray
+Icon=assets/llama_icon.svg
+Terminal=false
+Categories=Utility;System;
+StartupNotify=false
